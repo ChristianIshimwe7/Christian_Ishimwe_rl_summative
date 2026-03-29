@@ -1,0 +1,22 @@
+# Medical Triage RL – Dependencies
+# Install: pip install -r requirements.txt
+# Note: Panda3D requires Python 3.9-3.11
+
+# Core RL
+gymnasium==0.29.1
+stable-baselines3==2.3.2
+torch>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+Panda3D>=1.10.13
+
+# Utilities
+matplotlib>=3.7.0
+pandas>=2.0.0
+tqdm>=4.65.0
+scipy>=1.10.0
+
+# Optional – for video recording
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
