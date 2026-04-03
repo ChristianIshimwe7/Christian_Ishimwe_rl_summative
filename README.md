@@ -1,6 +1,6 @@
 # Christian Ishimwe – Medical Triage RL Summative
 
-**Course**: Machine Learning & Robotics | African Leadership University  
+**Course**: Machine Learning tech II | African Leadership University  
 **Author**: Christian Ishimwe  
 **GitHub Repo**: `christian_ishimwe_rl_summative`
 
